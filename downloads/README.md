@@ -1,12 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [archive_20260505_220929](./archive_20260505_220929)
-- [d9b023cd-459c-4ac4-93bd-1c9fb1f62a7f](./d9b023cd-459c-4ac4-93bd-1c9fb1f62a7f)
-- [f2e9b77e-4115-4dcf-86ef-b14f0fb92b76](./f2e9b77e-4115-4dcf-86ef-b14f0fb92b76)
-- [org.fdroid.fdroid_1018050](./org.fdroid.fdroid_1018050)
-- [she_had_nowhere_else_to_go_that_night..](./she_had_nowhere_else_to_go_that_night..)
-- [termux-app_v0.118.3+github-debug_universal](./termux-app_v0.118.3%2Bgithub-debug_universal)
-- [view_video](./view_video)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
