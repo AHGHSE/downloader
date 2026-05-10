@@ -1,0 +1,8 @@
+//images.ctfassets.net/1hpl803w8xsv/1JPQvvXxgjb8ZmLxWQLkey/34601ca8bfb6b223c8216db6d5278290/2-Screens-Sim-returns-UI-Static_New-3.webp
+//images.ctfassets.net/1hpl803w8xsv/41CXRu7az35QodwKP6znwp/69b2ca3f3bc3543c117a6866dbe4a563/3-Screens-MAC-UI-Static.webp
+//images.ctfassets.net/1hpl803w8xsv/7D8attEdFzRx0k1sMSfdIy/20f1e482d3e6121c422c87c35cfcdca0/Legend-Charts-on-Mobile.webp
+https://cdn.robinhood.com/assets/generated_assets/brand/_next/static/images/privacyoptions__86f2eb97cc1f3909c12e4512de9e267215d94ac5aaee9393d0f007f18c34e8ba.svg
+https://cdn.robinhood.com/assets/robinhood/legal/Characteristics%20and%20Risks%20of%20Standardized%20Options.pdf
+https://cdn.robinhood.com/assets/robinhood/legal/Law-Enforcement-Request.pdf
+https://cdn.robinhood.com/assets/robinhood/legal/RHF%20Customer%20Relationship%20Summary.pdf
+https://cdn.robinhood.com/assets/robinhood/legal/Robinhood%20Terms%20and%20Conditions.pdf
